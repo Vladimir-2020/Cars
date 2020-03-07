@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bbfb141-8da6-48c6-8ee8-6a1a79e07f3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>findByTitleContainingOrContentContaining</find>
+      <find>textAgain</find>
+      <find>data</find>
+      <find>setColor</find>
+      <find>mark</find>
+      <find>updateB</find>
+      <find>updateCar</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S0hNcg8FiJW90jmSfG85ioeyqt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\api\src\main\resources" />
+      <recent name="E:\api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplicationClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.MainApplicationClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bbfb141-8da6-48c6-8ee8-6a1a79e07f3d" name="Default Changelist" comment="" />
+      <created>1570706381767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570706381767</updated>
+      <workItem from="1570708805935" duration="1732000" />
+      <workItem from="1570710614720" duration="1797000" />
+      <workItem from="1570712968809" duration="1682000" />
+      <workItem from="1570714867739" duration="1735000" />
+      <workItem from="1570718129797" duration="1554000" />
+      <workItem from="1570719987439" duration="1597000" />
+      <workItem from="1570727920857" duration="1732000" />
+      <workItem from="1570729756909" duration="1790000" />
+      <workItem from="1570732685464" duration="1754000" />
+      <workItem from="1570734699299" duration="811000" />
+      <workItem from="1570786402509" duration="331000" />
+      <workItem from="1571062255825" duration="1590000" />
+      <workItem from="1571078069944" duration="1721000" />
+      <workItem from="1571080765946" duration="1927000" />
+      <workItem from="1571169979953" duration="1343000" />
+      <workItem from="1571220337250" duration="118000" />
+      <workItem from="1571221204810" duration="898000" />
+      <workItem from="1571250045331" duration="646000" />
+      <workItem from="1571660652839" duration="1825000" />
+      <workItem from="1571666273730" duration="777000" />
+      <workItem from="1583080801721" duration="1444000" />
+      <workItem from="1583568751167" duration="907000" />
+      <workItem from="1583570220985" duration="7857000" />
+      <workItem from="1583601687836" duration="453000" />
+      <workItem from="1583602241072" duration="76000" />
+      <workItem from="1583602367664" duration="733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="0" width="697" height="728" key="#MainApplicationClass" timestamp="1583602292863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="0" width="697" height="728" key="#MainApplicationClass/0.0.1366.728@0.0.1366.728" timestamp="1583602292863" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583602388997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583602388997" />
+    <state x="513" y="47" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583081116364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="47" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1583081116364" />
+    <state x="389" y="105" key="FileChooserDialogImpl" timestamp="1583081082752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583081082752" />
+    <state width="1323" height="327" key="GridCell.Tab.0.bottom" timestamp="1583584527666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583584527666" />
+    <state width="1323" height="327" key="GridCell.Tab.0.center" timestamp="1583584527665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583584527665" />
+    <state width="1323" height="327" key="GridCell.Tab.0.left" timestamp="1583584527665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583584527665" />
+    <state width="1323" height="327" key="GridCell.Tab.0.right" timestamp="1583584527666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583584527666" />
+    <state width="1323" height="327" key="GridCell.Tab.1.bottom" timestamp="1583584527666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583584527666" />
+    <state width="1323" height="327" key="GridCell.Tab.1.center" timestamp="1583584527666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583584527666" />
+    <state width="1323" height="327" key="GridCell.Tab.1.left" timestamp="1583584527666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583584527666" />
+    <state width="1323" height="327" key="GridCell.Tab.1.right" timestamp="1583584527666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="327" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583584527666" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1583081122422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583081122422" />
+    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583081114232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1583081114232" />
+  </component>
+</project>
